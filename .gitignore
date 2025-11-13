@@ -1,0 +1,6 @@
+# Zig cache files
+.zig-cache/
+
+# Zig output files
+zig-out/
+main
